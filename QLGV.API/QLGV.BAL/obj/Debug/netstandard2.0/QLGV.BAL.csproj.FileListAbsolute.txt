@@ -1,0 +1,14 @@
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\bin\Debug\netstandard2.0\QLGV.BAL.deps.json
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\bin\Debug\netstandard2.0\QLGV.BAL.dll
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\bin\Debug\netstandard2.0\QLGV.BAL.pdb
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\bin\Debug\netstandard2.0\QLGV.DAL.dll
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\bin\Debug\netstandard2.0\QLGV.Domain.dll
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\bin\Debug\netstandard2.0\QLGV.DAL.pdb
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\bin\Debug\netstandard2.0\QLGV.Domain.pdb
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\obj\Debug\netstandard2.0\QLGV.BAL.csprojAssemblyReference.cache
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\obj\Debug\netstandard2.0\QLGV.BAL.AssemblyInfoInputs.cache
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\obj\Debug\netstandard2.0\QLGV.BAL.AssemblyInfo.cs
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\obj\Debug\netstandard2.0\QLGV.BAL.csproj.CoreCompileInputs.cache
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\obj\Debug\netstandard2.0\QLGV.BAL.csproj.CopyComplete
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\obj\Debug\netstandard2.0\QLGV.BAL.dll
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.BAL\obj\Debug\netstandard2.0\QLGV.BAL.pdb

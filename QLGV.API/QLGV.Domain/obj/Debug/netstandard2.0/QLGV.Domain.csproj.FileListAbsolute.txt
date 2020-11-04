@@ -1,0 +1,9 @@
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.Domain\bin\Debug\netstandard2.0\QLGV.Domain.deps.json
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.Domain\bin\Debug\netstandard2.0\QLGV.Domain.dll
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.Domain\bin\Debug\netstandard2.0\QLGV.Domain.pdb
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.Domain\obj\Debug\netstandard2.0\QLGV.Domain.csprojAssemblyReference.cache
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.Domain\obj\Debug\netstandard2.0\QLGV.Domain.AssemblyInfoInputs.cache
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.Domain\obj\Debug\netstandard2.0\QLGV.Domain.AssemblyInfo.cs
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.Domain\obj\Debug\netstandard2.0\QLGV.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.Domain\obj\Debug\netstandard2.0\QLGV.Domain.dll
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.Domain\obj\Debug\netstandard2.0\QLGV.Domain.pdb

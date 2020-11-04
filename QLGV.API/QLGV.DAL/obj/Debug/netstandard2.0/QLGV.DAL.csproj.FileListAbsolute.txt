@@ -1,0 +1,12 @@
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\bin\Debug\netstandard2.0\QLGV.DAL.deps.json
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\bin\Debug\netstandard2.0\QLGV.DAL.dll
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\obj\Debug\netstandard2.0\QLGV.DAL.csprojAssemblyReference.cache
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\obj\Debug\netstandard2.0\QLGV.DAL.AssemblyInfoInputs.cache
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\obj\Debug\netstandard2.0\QLGV.DAL.AssemblyInfo.cs
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\bin\Debug\netstandard2.0\QLGV.Domain.dll
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\bin\Debug\netstandard2.0\QLGV.DAL.pdb
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\bin\Debug\netstandard2.0\QLGV.Domain.pdb
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\obj\Debug\netstandard2.0\QLGV.DAL.csproj.CoreCompileInputs.cache
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\obj\Debug\netstandard2.0\QLGV.DAL.csproj.CopyComplete
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\obj\Debug\netstandard2.0\QLGV.DAL.dll
+C:\Users\rrrrr\source\repos\QLGV.API\QLGV.DAL\obj\Debug\netstandard2.0\QLGV.DAL.pdb

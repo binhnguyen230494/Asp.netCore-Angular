@@ -1,0 +1,49 @@
+<!--<mat-toolbar color="primary" class="nav-height">
+    <mat-toolbar-row>
+      
+      <h1>Quản lý giang viên</h1>
+      <span class="menu-spacer" style="width: 100px;"></span>
+      <div>
+        
+        <a
+          mat-button
+          [routerLink]="['/khoa']"
+          [routerLinkActive]="'active-link'"
+        >
+          <mat-icon>person</mat-icon> Khoa
+        </a>
+      </div>
+    </mat-toolbar-row>
+    
+  </mat-toolbar>
+  <mat-sidenav-container>
+    <mat-sidenav-content>
+        <div style="
+        height: 90vh;
+        margin-top: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
+      ">
+          <router-outlet></router-outlet>
+        </div>
+      </mat-sidenav-content>
+    </mat-sidenav-container>-->
+ <div class="container">
+
+    
+    <h5 class="d-flex justify-content-center">Khoa</h5>
+
+    <nav class="navbar navbar-expand-sm bg-light navbar-dark">
+    <ul class="navbar-nav">
+        <li class="nav-item">
+            <button routerLink="khoa"
+            class="m-1 btn btn-light btn-outline-primary" Button>Khoa</button>
+        </li>
+
+        
+    </ul>
+    </nav>
+
+<router-outlet></router-outlet>
+
+</div>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B585OhFEFfG6Qgw+7Ppp5u4Up9E2i/52dbdrY/4+jVPCIVbRN9kk7VFzHYKKICPUVXEBBb+9xpwFVQjwjsM8fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rrrrr\\source\\repos\\QLGV.API\\QLGV.Domain\\QLGV.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rrrrr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rrrrr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
